@@ -2,6 +2,15 @@
 
 This repository contains an Obsidian vault built from the Noble Research Institute article corpus.
 
+## Getting Started
+
+The vault is free to use and doesn't require any paid plugins.
+
+1. Install [Obsidian](https://obsidian.md) (free)
+2. Clone or download the repository: https://github.com/mktcowboy/noble-research-obsidian-vault
+3. Open Obsidian → "Open folder as vault" → select the downloaded folder
+4. Start from the **Start Here** note
+
 ## Contents
 
 - Start Here.md is the main entry note.

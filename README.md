@@ -28,6 +28,13 @@ The vault is free to use and doesn't require any paid plugins.
 
 ![Concept View](docs/concept-view.jpg)
 
+## Attribution & Disclaimer
+
+All articles and content within this repository are the sole property of [Original Author's Name]. I do not claim ownership of any materials shared here; this repository serves exclusively as a personal collection for [archival/educational] purposes.
+
+- **Original Source:** [Link to the author's website or blog]
+- **Original License:** [Specify if known, e.g., Creative Commons, or "All Rights Reserved"]
+
 ## Notes
 
 - Each article note includes frontmatter with source URLs, topic metadata, categorized browse metadata and scraped tags.

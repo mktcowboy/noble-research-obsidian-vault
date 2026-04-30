@@ -1,6 +1,11 @@
 # Noble Research Obsidian Vault
 
-This repository contains an Obsidian vault built from the Noble Research Institute article corpus.
+## Attribution & Disclaimer
+
+All articles and content within this repository are the sole property of Noble Research Institute. I do not claim ownership of any materials shared here; this repository serves exclusively as a personal collection for archival/educational purposes.
+
+- **Original Source:** https://www.noble.org/articles/
+- **Original Website:** https://www.noble.org/
 
 ## Getting Started
 
@@ -28,12 +33,6 @@ The vault is free to use and doesn't require any paid plugins.
 
 ![Concept View](docs/concept-view.jpg)
 
-## Attribution & Disclaimer
-
-All articles and content within this repository are the sole property of [Original Author's Name]. I do not claim ownership of any materials shared here; this repository serves exclusively as a personal collection for [archival/educational] purposes.
-
-- **Original Source:** [Link to the author's website or blog]
-- **Original License:** [Specify if known, e.g., Creative Commons, or "All Rights Reserved"]
 
 ## Notes
 

@@ -1,0 +1,60 @@
+# Profiles and Interviews
+
+[[Maps/Topics/People Articles|Topic: People]]
+
+43 articles in this section.
+
+## Related Concepts
+
+- [[Concepts/Regenerative Agriculture|Regenerative Agriculture (7)]]
+- [[Concepts/Cattle and Livestock|Cattle and Livestock (6)]]
+- [[Concepts/Soil|Soil (5)]]
+- [[Concepts/Grass and Forage|Grass and Forage (4)]]
+- [[Concepts/Ranch Management|Ranch Management (4)]]
+
+## Articles
+
+- [[Articles/People/5 Noble Researchers, Consultants Share Their Personal Ag Stories.md|5 Noble Researchers, Consultants Share Their Personal Ag Stories]]
+- [[Articles/People/80 Years and Counting.md|80 Years and Counting]]
+- [[Articles/People/A Brand New Era.md|A Brand New Era]]
+- [[Articles/People/A Legacy Extended.md|A Legacy Extended]]
+- [[Articles/People/A Living Legacy.md|A Living Legacy]]
+- [[Articles/People/Advocating for Change.md|Advocating for Change]]
+- [[Articles/People/AMP It Up.md|AMP It Up]]
+- [[Articles/People/Back-Porch Revelation.md|Back-Porch Revelation]]
+- [[Articles/People/Before You Go Q&A with Jason Roundtree.md|Before You Go: Q&A with Jason Roundtree]]
+- [[Articles/People/Bill Buckner As the Modern Agriculture Advocate.md|Bill Buckner As the Modern Agriculture Advocate]]
+- [[Articles/People/Bill Buckner Prepares for Next Season of Serving Agriculture.md|Bill Buckner Prepares for Next Season of Serving Agriculture]]
+- [[Articles/People/Blue-Ribbon Weekend.md|Blue-Ribbon Weekend]]
+- [[Articles/People/Breaking Barriers to Regenerative Agriculture.md|Breaking Barriers to Regenerative Agriculture]]
+- [[Articles/People/Collaborating To Find Better Solutions.md|Collaborating To Find Better Solutions]]
+- [[Articles/People/Covered.md|Covered]]
+- [[Articles/People/Direction Over Perfection.md|Direction Over Perfection]]
+- [[Articles/People/Early Farming Practices versus Modern Agriculture.md|Early Farming Practices versus Modern Agriculture]]
+- [[Articles/People/For the Love of Bison.md|For the Love of Bison]]
+- [[Articles/People/From the ARO Architects.md|From the ARO Architects]]
+- [[Articles/People/Get to know Noble’s 3M research co-lead Isabella Maciel.md|Get to know Noble’s 3M research co-lead Isabella Maciel]]
+- [[Articles/People/Growth, Movement and Optimism.md|Growth, Movement and Optimism]]
+- [[Articles/People/Hi, I’m the New Guy.md|Hi, I’m the New Guy.]]
+- [[Articles/People/In Memoriam Ann Noble Brown.md|In Memoriam: Ann Noble Brown]]
+- [[Articles/People/In Memoriam Shelley Mullins.md|In Memoriam: Shelley Mullins]]
+- [[Articles/People/In the Field Movable Feeding Station for Guardian Dogs.md|In the Field: Movable Feeding Station for Guardian Dogs]]
+- [[Articles/People/It All Starts with Context.md|It All Starts with Context]]
+- [[Articles/People/Miracles and Magnolias.md|Miracles and Magnolias]]
+- [[Articles/People/Paving Destiny’s Dirt Road.md|Paving Destiny’s Dirt Road]]
+- [[Articles/People/Photography Tips for Elevating Your Brand.md|Photography Tips for Elevating Your Brand]]
+- [[Articles/People/Pumpkin Patch Ponderings.md|Pumpkin Patch Ponderings]]
+- [[Articles/People/Q&A with Scotty Herriman.md|Q&A with Scotty Herriman]]
+- [[Articles/People/Ranchers who have worked with Noble through the years share their experiences.md|Ranchers who have worked with Noble through the years share their experiences.]]
+- [[Articles/People/Research Is Our Middle Name.md|Research Is Our Middle Name]]
+- [[Articles/People/Restoring A Family Legacy.md|Restoring A Family Legacy]]
+- [[Articles/People/Shared Values, Not Shared Labels.md|Shared Values, Not Shared Labels]]
+- [[Articles/People/Stacked For Success.md|Stacked For Success]]
+- [[Articles/People/The 40-year-long Look.md|The 40-year-long Look]]
+- [[Articles/People/The Gift of a Garden Contest.md|The Gift of a Garden Contest]]
+- [[Articles/People/The Journey.md|The Journey]]
+- [[Articles/People/The Key to Coming Home.md|The Key to Coming Home]]
+- [[Articles/People/The Power of a Regenerative Mindset.md|The Power of a Regenerative Mindset]]
+- [[Articles/People/When Are You Regenerative.md|When Are You Regenerative?]]
+- [[Articles/People/Where I Came In.md|Where I Came In]]
+

@@ -24,13 +24,26 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.Graph({
-      localGraph: {
-        showTags: false,
-      },
-      globalGraph: {
-        showTags: false,
-      },
+    Component.ConditionalRender({
+      component: Component.Graph({
+        useGlobalGraph: true,
+        showExpandButton: false,
+        showTitle: false,
+        className: "graph-feature",
+        globalGraph: {
+          showTags: false,
+          depth: -1,
+          scale: 0.72,
+          repelForce: 0.7,
+          centerForce: 0.12,
+          linkDistance: 42,
+          fontSize: 0.75,
+          opacityScale: 1.25,
+          focusOnHover: true,
+          enableRadial: false,
+        },
+      }),
+      condition: (page) => page.fileData.slug === "index",
     }),
   ],
   left: [
@@ -48,7 +61,21 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [Component.DesktopOnly(Component.TableOfContents()), Component.Backlinks()],
+  right: [
+    Component.ConditionalRender({
+      component: Component.Graph({
+        localGraph: {
+          showTags: false,
+        },
+        globalGraph: {
+          showTags: false,
+        },
+      }),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
+  ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)

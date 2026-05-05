@@ -1,24 +1,19 @@
 @use "../../styles/variables.scss" as *;
 
 .graph {
-  max-width: 980px;
-  margin: 1.5rem auto 2.25rem auto;
-
   & > h3 {
-    font-size: 1.1rem;
+    font-size: 1rem;
     margin: 0;
-    text-align: center;
   }
 
   & > .graph-outer {
     border-radius: 5px;
     border: 1px solid var(--lightgray);
     box-sizing: border-box;
-    height: 460px;
-    margin: 0.85rem 0 0 0;
+    height: 250px;
+    margin: 0.5em 0;
     position: relative;
     overflow: hidden;
-    background-color: color-mix(in srgb, var(--light) 94%, var(--secondary) 6%);
 
     & > .global-graph-icon {
       cursor: pointer;
@@ -40,14 +35,6 @@
       &:hover {
         background-color: var(--lightgray);
       }
-    }
-
-    @media all and not ($desktop) {
-      height: 380px;
-    }
-
-    @media all and ($mobile) {
-      height: 320px;
     }
   }
 
@@ -75,13 +62,33 @@
       top: 50%;
       left: 50%;
       transform: translate(-50%, -50%);
-      height: 90vh;
-      width: 92vw;
+      height: 80vh;
+      width: 80vw;
 
       @media all and not ($desktop) {
-        width: 94vw;
-        height: 92vh;
+        width: 90%;
       }
+    }
+  }
+}
+
+.graph.graph-feature {
+  max-width: 100%;
+  margin: 1.25rem auto 2rem auto;
+
+  & > .graph-outer {
+    height: min(62vh, 560px);
+    margin-top: 0;
+    background:
+      radial-gradient(circle at center, color-mix(in srgb, var(--secondary) 10%, transparent) 0%, transparent 45%),
+      color-mix(in srgb, var(--light) 97%, var(--secondary) 3%);
+  }
+
+  @media all and ($mobile) {
+    margin-top: 0.75rem;
+
+    & > .graph-outer {
+      height: 52vh;
     }
   }
 }

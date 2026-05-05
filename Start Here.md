@@ -2,6 +2,14 @@
 
 This vault contains 540 Noble Research Institute article notes, grouped by topic.
 
+## Attribution
+
+All original article content belongs to Noble Research Institute.
+
+- Original website: <https://www.noble.org/>
+- Original article library: <https://www.noble.org/articles/>
+- This vault is a personal, attributed archive for browsing and educational use.
+
 ## Topics
 - [[Maps/Topics/Business Articles|Business (33)]]
 - [[Maps/Topics/Land Management Articles|Land Management (113)]]

@@ -40,7 +40,11 @@ The vault is free to use and doesn't require any paid plugins.
 - Topic overview notes use the source `by_topic` structure where it helps sort articles inside each topic.
 - Obsidian workspace-specific files are ignored so local UI state does not clutter version control.
 
-## Quartz Website
+## Website
 
+<<<<<<< Updated upstream
 This repository now includes a Quartz site in [site](/Users/blake/Desktop/github/noble-research-obsidian-vault/site).
 
+=======
+Live website: <https://mktcowboy.github.io/noble-research-obsidian-vault/>
+>>>>>>> Stashed changes

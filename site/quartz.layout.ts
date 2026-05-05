@@ -8,8 +8,9 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Vault Repo": "https://github.com/mktcowboy/noble-research-obsidian-vault",
-      "Original Articles": "https://www.noble.org/articles/",
+      Repository: "https://github.com/mktcowboy/noble-research-obsidian-vault",
+      "Noble Research Institute": "https://www.noble.org/",
+      "Original Article Library": "https://www.noble.org/articles/",
     },
   }),
 }

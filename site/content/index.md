@@ -1,11 +1,16 @@
 ---
 title: Noble Research Vault
-description: Searchable web edition of the Noble Research Institute article vault, organized by topic, concept, and keyword.
+description: Searchable web edition of a Noble Research Institute article vault, organized by topic, concept, and keyword with source attribution preserved.
 ---
 
-A searchable web edition of the Noble Research Institute Obsidian vault, published with Quartz.
+A searchable web edition of a personal Obsidian vault built from Noble Research Institute articles.
 
-> Original articles remain attributed inside each note, including their source URLs.
+> All original article content remains the property of Noble Research Institute. This site is an attributed browse layer for personal and educational use, and each note keeps its original source URL.
+
+## Source Credit
+
+- [Noble Research Institute](https://www.noble.org/)
+- [Original article library](https://www.noble.org/articles/)
 
 ## Start Here
 

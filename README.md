@@ -39,3 +39,16 @@ The vault is free to use and doesn't require any paid plugins.
 - Each article note includes frontmatter with source URLs, topic metadata, categorized browse metadata and scraped tags.
 - Topic overview notes use the source `by_topic` structure where it helps sort articles inside each topic.
 - Obsidian workspace-specific files are ignored so local UI state does not clutter version control.
+
+## Quartz Website
+
+This repository now includes a Quartz site in [site](/Users/blake/Desktop/github/noble-research-obsidian-vault/site).
+
+To preview it locally:
+
+1. `cd site`
+2. `npm install`
+3. `npm run dev`
+4. Open `http://localhost:8080`
+
+GitHub Pages deployment is configured in [.github/workflows/deploy-quartz.yml](/Users/blake/Desktop/github/noble-research-obsidian-vault/.github/workflows/deploy-quartz.yml). In the repository settings, set Pages to use `GitHub Actions` as the source.

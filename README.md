@@ -44,15 +44,3 @@ The vault is free to use and doesn't require any paid plugins.
 
 This repository now includes a Quartz site in [site](/Users/blake/Desktop/github/noble-research-obsidian-vault/site).
 
-Detailed walkthrough: [QUARTZ-WALKTHROUGH.md](/Users/blake/Desktop/github/noble-research-obsidian-vault/QUARTZ-WALKTHROUGH.md)
-Sharing/publishing note: [SHARING-THE-WEBSITE.md](/Users/blake/Desktop/github/noble-research-obsidian-vault/SHARING-THE-WEBSITE.md)
-Deploy workflow note: [RUNNING-THE-DEPLOY-WORKFLOW.md](/Users/blake/Desktop/github/noble-research-obsidian-vault/RUNNING-THE-DEPLOY-WORKFLOW.md)
-
-To preview it locally:
-
-1. `cd site`
-2. `npm install`
-3. `npm run dev`
-4. Open `http://localhost:8080`
-
-GitHub Pages deployment is configured in [.github/workflows/deploy-quartz.yml](/Users/blake/Desktop/github/noble-research-obsidian-vault/.github/workflows/deploy-quartz.yml). In the repository settings, set Pages to use `GitHub Actions` as the source.

@@ -45,6 +45,7 @@ The vault is free to use and doesn't require any paid plugins.
 This repository now includes a Quartz site in [site](/Users/blake/Desktop/github/noble-research-obsidian-vault/site).
 
 Detailed walkthrough: [QUARTZ-WALKTHROUGH.md](/Users/blake/Desktop/github/noble-research-obsidian-vault/QUARTZ-WALKTHROUGH.md)
+Sharing/publishing note: [SHARING-THE-WEBSITE.md](/Users/blake/Desktop/github/noble-research-obsidian-vault/SHARING-THE-WEBSITE.md)
 
 To preview it locally:
 

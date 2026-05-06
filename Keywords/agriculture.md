@@ -13,7 +13,7 @@
 
 - [[Articles/Business/A Fork in the Road.md|A Fork in the Road]]
 - [[Articles/Business/Funding the Answers to Farmers’ Questions.md|Funding the Answers to Farmers’ Questions]]
-- [[Articles/Business/Selecting the Best Business Structure for Your Farm [regenerative-agriculture__economics__selecting-the-best-business-structure-for-your-far.md|Selecting the Best Business Structure for Your Farm]]
+- [[Articles/Business/Selecting the Best Business Structure for Your Farm.md|Selecting the Best Business Structure for Your Farm]]
 
 ## Livestock
 
@@ -27,5 +27,4 @@
 ## Wildlife
 
 - [[Articles/Wildlife/11 Things People Believe About Bees That Aren’t True.md|11 Things People Believe About Bees That Aren’t True]]
-
 

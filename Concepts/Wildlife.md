@@ -108,7 +108,6 @@ Connections across articles about wildlife, game species, pollinators and landow
 - [[Articles/Wildlife/Top 5 Considerations for Increasing Wildlife Diversity.md|Top 5 Considerations for Increasing Wildlife Diversity]]
 - [[Articles/Wildlife/Water Sources Can Be Managed to Benefit Mourning Dove.md|Water Sources Can Be Managed to Benefit Mourning Dove]]
 - [[Articles/Wildlife/Where to Find Technical Guidance for Land Management and Conservation.md|Where to Find Technical Guidance for Land Management and Conservation]]
-- [[Maps/Topics/Wildlife Articles Watch Abundant Ground-nesting Birds Sign of Healthy Grasslands.md|Wildlife Watch: Abundant Ground-nesting Birds Sign of Healthy Grasslands]]
-- [[Maps/Topics/Wildlife Articles Watch Build Diversity And Enterprise Income By Tracking Deer And Other Wildlife Populations.md|Wildlife Watch: Build Diversity And Enterprise Income By Tracking Deer And Other Wildlife Populations]]
-
+- [[Articles/Wildlife/Wildlife Watch Abundant Ground-nesting Birds Sign of Healthy Grasslands.md|Wildlife Watch: Abundant Ground-nesting Birds Sign of Healthy Grasslands]]
+- [[Articles/Wildlife/Wildlife Watch Build Diversity And Enterprise Income By Tracking Deer And Other Wildlife Populations.md|Wildlife Watch: Build Diversity And Enterprise Income By Tracking Deer And Other Wildlife Populations]]
 

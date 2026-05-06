@@ -141,7 +141,7 @@ Articles about cattle, livestock systems, herd decisions and grazing animals.
 - [[Articles/Livestock/Is Virtual Fencing Right for Your Ranch.md|Is Virtual Fencing Right for Your Ranch?]]
 - [[Articles/Livestock/Learning to Grow Pastures and Profit.md|Learning to Grow Pastures and Profit]]
 - [[Articles/Livestock/Lessons learned at Noble Ranches in our first year with guardian donkeys.md|Lessons learned at Noble Ranches in our first year with guardian donkeys]]
-- [[Maps/Topics/Livestock Articles Can Be Used to Optimize Disturbance for Soil Health — Here’s How.md|Livestock Can Be Used to Optimize Disturbance for Soil Health — Here’s How]]
+- [[Articles/Livestock/Livestock Can Be Used to Optimize Disturbance for Soil Health — Here’s How.md|Livestock Can Be Used to Optimize Disturbance for Soil Health — Here’s How]]
 - [[Articles/Livestock/Low-Risk Strategies to Transition from Conventional to Adaptive Grazing.md|Low-Risk Strategies to Transition from Conventional to Adaptive Grazing]]
 - [[Articles/Livestock/Magnets can help prevent hardware disease in cattle herds.md|Magnets can help prevent hardware disease in cattle herds]]
 - [[Articles/Livestock/Management of Annual Ryegrass.md|Management of Annual Ryegrass]]
@@ -280,5 +280,4 @@ Articles about cattle, livestock systems, herd decisions and grazing animals.
 - [[Articles/Wildlife/Funnel Trap Fish Survey.md|Funnel Trap Fish Survey]]
 - [[Articles/Wildlife/Is Wildlife Compatible With the Livestock on Your Ranch.md|Is Wildlife Compatible With the Livestock on Your Ranch?]]
 - [[Articles/Wildlife/Rotenone Can Remove Undesirable Fish From a Pond.md|Rotenone Can Remove Undesirable Fish From a Pond]]
-
 

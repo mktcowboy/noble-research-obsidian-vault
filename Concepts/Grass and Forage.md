@@ -148,6 +148,5 @@ Links for grasslands, forage, pastures and the plant base that supports ranch sy
 ## Wildlife
 
 - [[Articles/Wildlife/Dead Fish in Summer Low Dissolved Oxygen Is Usually the Culprit.md|Dead Fish in Summer? Low Dissolved Oxygen Is Usually the Culprit]]
-- [[Maps/Topics/Wildlife Articles Watch Abundant Ground-nesting Birds Sign of Healthy Grasslands.md|Wildlife Watch: Abundant Ground-nesting Birds Sign of Healthy Grasslands]]
-
+- [[Articles/Wildlife/Wildlife Watch Abundant Ground-nesting Birds Sign of Healthy Grasslands.md|Wildlife Watch: Abundant Ground-nesting Birds Sign of Healthy Grasslands]]
 

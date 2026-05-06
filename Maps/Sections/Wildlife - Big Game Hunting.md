@@ -26,5 +26,4 @@
 - [[Articles/Wildlife/Spike buck culling seldom provides benefits.md|Spike buck culling seldom provides benefits]]
 - [[Articles/Wildlife/The Eight Point Rule.md|The Eight Point Rule]]
 - [[Articles/Wildlife/Tips for a Safe Hunting Season.md|Tips for a Safe Hunting Season]]
-- [[Maps/Topics/Wildlife Articles Watch Build Diversity And Enterprise Income By Tracking Deer And Other Wildlife Populations.md|Wildlife Watch: Build Diversity And Enterprise Income By Tracking Deer And Other Wildlife Populations]]
-
+- [[Articles/Wildlife/Wildlife Watch Build Diversity And Enterprise Income By Tracking Deer And Other Wildlife Populations.md|Wildlife Watch: Build Diversity And Enterprise Income By Tracking Deer And Other Wildlife Populations]]

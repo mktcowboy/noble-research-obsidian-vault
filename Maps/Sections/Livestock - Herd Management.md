@@ -33,7 +33,7 @@
 - [[Articles/Livestock/How to Set Up Your Ranch to Diversify Species and Income.md|How to Set Up Your Ranch to Diversify Species and Income]]
 - [[Articles/Livestock/In The Kitchen Beef Fajita Soup.md|In The Kitchen: Beef Fajita Soup]]
 - [[Articles/Livestock/Is There a Regenerative Cow.md|Is There a Regenerative Cow?]]
-- [[Maps/Topics/Livestock Articles Can Be Used to Optimize Disturbance for Soil Health — Here’s How.md|Livestock Can Be Used to Optimize Disturbance for Soil Health — Here’s How]]
+- [[Articles/Livestock/Livestock Can Be Used to Optimize Disturbance for Soil Health — Here’s How.md|Livestock Can Be Used to Optimize Disturbance for Soil Health — Here’s How]]
 - [[Articles/Livestock/Magnets can help prevent hardware disease in cattle herds.md|Magnets can help prevent hardware disease in cattle herds]]
 - [[Articles/Livestock/Potential mob graziers should consider precautions.md|Potential mob graziers should consider precautions]]
 - [[Articles/Livestock/Proper livestock stocking rate supports operation, wildlife.md|Proper livestock stocking rate supports operation, wildlife]]
@@ -53,4 +53,3 @@
 - [[Articles/Livestock/What is the Role of Cattle in Regenerative Agriculture.md|What is the Role of Cattle in Regenerative Agriculture?]]
 - [[Articles/Livestock/When It’s Hot It’s Hot and When It’s Not, It’s Still Hot!.md|When It’s Hot It’s Hot and When It’s Not, It’s Still Hot!]]
 - [[Articles/Livestock/You Cannot Starve a Profit Into a Cow.md|You Cannot Starve a Profit Into a Cow]]
-

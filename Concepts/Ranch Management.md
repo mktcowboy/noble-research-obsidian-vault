@@ -25,7 +25,7 @@ Articles that connect through ranch planning, decision-making and management sys
 - [[Articles/Business/Identify new management practices for better profitability.md|Identify new management practices for better profitability]]
 - [[Articles/Business/Key steps facilitate formation of associations.md|Key steps facilitate formation of associations]]
 - [[Articles/Business/Management Functions Are Essential to Successful Farm Businesses.md|Management Functions Are Essential to Successful Farm Businesses]]
-- [[Articles/Business/Selecting the Best Business Structure for Your Farm [regenerative-agriculture__economics__selecting-the-best-business-structure-for-your-far.md|Selecting the Best Business Structure for Your Farm]]
+- [[Articles/Business/Selecting the Best Business Structure for Your Farm.md|Selecting the Best Business Structure for Your Farm]]
 
 ## Land Management
 
@@ -185,7 +185,7 @@ Articles that connect through ranch planning, decision-making and management sys
 - [[Articles/Livestock/In The Kitchen Beef Fajita Soup.md|In The Kitchen: Beef Fajita Soup]]
 - [[Articles/Livestock/Is There a Regenerative Cow.md|Is There a Regenerative Cow?]]
 - [[Articles/Livestock/Lessons learned at Noble Ranches in our first year with guardian donkeys.md|Lessons learned at Noble Ranches in our first year with guardian donkeys]]
-- [[Maps/Topics/Livestock Articles Can Be Used to Optimize Disturbance for Soil Health — Here’s How.md|Livestock Can Be Used to Optimize Disturbance for Soil Health — Here’s How]]
+- [[Articles/Livestock/Livestock Can Be Used to Optimize Disturbance for Soil Health — Here’s How.md|Livestock Can Be Used to Optimize Disturbance for Soil Health — Here’s How]]
 - [[Articles/Livestock/Magnets can help prevent hardware disease in cattle herds.md|Magnets can help prevent hardware disease in cattle herds]]
 - [[Articles/Livestock/Management of Annual Ryegrass.md|Management of Annual Ryegrass]]
 - [[Articles/Livestock/New item for spring to-do list Set up a monitoring site to measure regenerative progress on your ranch.md|New item for spring to-do list: Set up a monitoring site to measure regenerative progress on your ranch]]
@@ -293,5 +293,4 @@ Articles that connect through ranch planning, decision-making and management sys
 - [[Articles/Wildlife/Spike buck culling seldom provides benefits.md|Spike buck culling seldom provides benefits]]
 - [[Articles/Wildlife/Top 5 Considerations for Increasing Wildlife Diversity.md|Top 5 Considerations for Increasing Wildlife Diversity]]
 - [[Articles/Wildlife/Where to Find Technical Guidance for Land Management and Conservation.md|Where to Find Technical Guidance for Land Management and Conservation]]
-
 

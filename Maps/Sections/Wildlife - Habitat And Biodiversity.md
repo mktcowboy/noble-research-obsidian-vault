@@ -22,5 +22,4 @@
 - [[Articles/Wildlife/Managing for Upland Game Birds on Your Regenerative Ranch.md|Managing for Upland Game Birds on Your Regenerative Ranch]]
 - [[Articles/Wildlife/Top 5 Considerations for Increasing Wildlife Diversity.md|Top 5 Considerations for Increasing Wildlife Diversity]]
 - [[Articles/Wildlife/Where to Find Technical Guidance for Land Management and Conservation.md|Where to Find Technical Guidance for Land Management and Conservation]]
-- [[Maps/Topics/Wildlife Articles Watch Abundant Ground-nesting Birds Sign of Healthy Grasslands.md|Wildlife Watch: Abundant Ground-nesting Birds Sign of Healthy Grasslands]]
-
+- [[Articles/Wildlife/Wildlife Watch Abundant Ground-nesting Birds Sign of Healthy Grasslands.md|Wildlife Watch: Abundant Ground-nesting Birds Sign of Healthy Grasslands]]

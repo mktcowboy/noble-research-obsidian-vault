@@ -104,7 +104,7 @@ Cross-topic links for soil health, soil biology, soil carbon and soil function.
 - [[Articles/Livestock/How Can I Tell if Community Dynamics Are Impaired (and What Can Fix Them ).md|How Can I Tell if Community Dynamics Are Impaired (and What Can Fix Them?)]]
 - [[Articles/Livestock/How to Evaluate Property for Raising Cattle.md|How to Evaluate Property for Raising Cattle]]
 - [[Articles/Livestock/How To Use Bale Grazing and Other Hay-Feeding Strategies To Build Soil Health and Improve Forage Production on Your Regenerative Ranch.md|How To Use Bale Grazing and Other Hay-Feeding Strategies To Build Soil Health and Improve Forage Production on Your Regenerative Ranch]]
-- [[Maps/Topics/Livestock Articles Can Be Used to Optimize Disturbance for Soil Health — Here’s How.md|Livestock Can Be Used to Optimize Disturbance for Soil Health — Here’s How]]
+- [[Articles/Livestock/Livestock Can Be Used to Optimize Disturbance for Soil Health — Here’s How.md|Livestock Can Be Used to Optimize Disturbance for Soil Health — Here’s How]]
 - [[Articles/Livestock/Nature manages native plant communities.md|Nature manages native plant communities]]
 - [[Articles/Livestock/New item for spring to-do list Set up a monitoring site to measure regenerative progress on your ranch.md|New item for spring to-do list: Set up a monitoring site to measure regenerative progress on your ranch]]
 - [[Articles/Livestock/Plan Ahead To Meet Sheep and Goat Dietary Needs in the Dormant Season.md|Plan Ahead To Meet Sheep and Goat Dietary Needs in the Dormant Season]]
@@ -158,5 +158,4 @@ Cross-topic links for soil health, soil biology, soil carbon and soil function.
 
 - [[Articles/Wildlife/Four ways feral hogs cost farmers and ranchers.md|Four ways feral hogs cost farmers and ranchers]]
 - [[Articles/Wildlife/Managing for Upland Game Birds on Your Regenerative Ranch.md|Managing for Upland Game Birds on Your Regenerative Ranch]]
-
 

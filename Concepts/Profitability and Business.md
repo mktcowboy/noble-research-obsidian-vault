@@ -38,7 +38,6 @@ Connections for profitability, business structure, economics and financial decis
 - [[Articles/Business/Regenerative Resources What We’re Reading and Listening to at Noble.md|Regenerative Resources: What We’re Reading and Listening to at Noble]]
 - [[Articles/Business/Rooted in a Vision 80 Years of Noble Research Institute.md|Rooted in a Vision: 80 Years of Noble Research Institute]]
 - [[Articles/Business/Selecting the Best Business Structure for Your Farm.md|Selecting the Best Business Structure for Your Farm]]
-- [[Articles/Business/Selecting the Best Business Structure for Your Farm [regenerative-agriculture__economics__selecting-the-best-business-structure-for-your-far.md|Selecting the Best Business Structure for Your Farm]]
 - [[Articles/Business/Understanding Income, Expense and Cash Flow Statements.md|Understanding Income, Expense and Cash Flow Statements]]
 - [[Articles/Business/What Is One Piece of Advice Information That Producers Can Use to Immediately Improve Their Operations.md|What Is One Piece of Advice/Information That Producers Can Use to Immediately Improve Their Operations?]]
 - [[Articles/Business/When and How to Prepare a Farm Balance Sheet.md|When and How to Prepare a Farm Balance Sheet]]
@@ -106,5 +105,3 @@ Connections for profitability, business structure, economics and financial decis
 - [[Articles/People/The Basics of How GPS Works and an Activity to Try at Home.md|The Basics of How GPS Works and an Activity to Try at Home]]
 - [[Articles/People/Tools of the Trade.md|Tools of the Trade]]
 - [[Articles/People/White Oak Pastures How a 156-year-old farm practices “radically traditional farming”.md|White Oak Pastures: How a 156-year-old farm practices “radically traditional farming”]]
-
-

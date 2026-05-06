@@ -22,7 +22,6 @@
 - [[Articles/Business/Profit per Acre, Over Production per Acre.md|Profit per Acre, Over Production per Acre]]
 - [[Articles/Business/Regenerative Resources What We’re Reading and Listening to at Noble.md|Regenerative Resources: What We’re Reading and Listening to at Noble]]
 - [[Articles/Business/Rooted in a Vision 80 Years of Noble Research Institute.md|Rooted in a Vision: 80 Years of Noble Research Institute]]
-- [[Articles/Business/Selecting the Best Business Structure for Your Farm [regenerative-agriculture__economics__selecting-the-best-business-structure-for-your-far.md|Selecting the Best Business Structure for Your Farm]]
 - [[Articles/Business/Selecting the Best Business Structure for Your Farm.md|Selecting the Best Business Structure for Your Farm]]
 - [[Articles/Business/Understanding Income, Expense and Cash Flow Statements.md|Understanding Income, Expense and Cash Flow Statements]]
 - [[Articles/Business/What Is One Piece of Advice Information That Producers Can Use to Immediately Improve Their Operations.md|What Is One Piece of Advice/Information That Producers Can Use to Immediately Improve Their Operations?]]
@@ -40,5 +39,3 @@
 - [[Concepts/Grazing|Grazing (3)]]
 - [[Concepts/Drought|Drought (2)]]
 - [[Concepts/Water|Water (2)]]
-
-

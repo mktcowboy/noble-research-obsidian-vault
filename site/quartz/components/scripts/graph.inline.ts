@@ -69,6 +69,10 @@ type TweenNode = {
 }
 
 async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
+  if (window.matchMedia("(max-width: 800px)").matches && graph.closest(".graph-feature")) {
+    return () => {}
+  }
+
   const slug = simplifySlug(fullSlug)
   const visited = getVisited()
   removeAllChildren(graph)

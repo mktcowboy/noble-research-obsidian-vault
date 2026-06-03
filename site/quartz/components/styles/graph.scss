@@ -96,10 +96,6 @@
   }
 
   @media all and ($mobile) {
-    margin-top: 0.75rem;
-
-    & > .graph-outer {
-      height: 52vh;
-    }
+    display: none;
   }
 }
